@@ -1,0 +1,30 @@
+{
+  "name": "seccamp2016-chacha20-workshopper",
+  "version": "0.0.1",
+  "description": "Homework of ChaCha20 for TLS Practices in Security Camp 2016",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "seccamp2016-chacha20-workshopper": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shigeki/seccamp2016-chacha20-workshopper"
+  },
+  "keywords": [
+    "seccamp2016"
+  ],
+  "author": "Shigeki Ohtsu <ohtsu@iij.ad.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shigeki/seccamp2016-chacha20-workshopper/issues"
+  },
+  "homepage": "https://github.com/shigeki/seccamp2016-chacha20-workshopper",
+  "dependencies": {
+    "workshopper": "^2.7.0",
+    "workshopper-exercise": "^2.4.0"
+  }
+}

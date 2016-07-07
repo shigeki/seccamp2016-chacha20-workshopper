@@ -1,0 +1,9 @@
+{
+    "title": "Security Camp 2016 ChaCha20 Workshopper",
+    "subtitle": "ChaCha20 Cipher",
+    "exercise": {
+        "addition": "uint32 module addition",
+        "XOR": "uint32 XOR",
+        "n-bit left rotation": "uint32 n-bit left rotation"
+    }
+}
