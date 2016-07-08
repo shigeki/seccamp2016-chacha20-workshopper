@@ -4,6 +4,7 @@
     "exercise": {
         "addition": "uint32 module addition",
         "XOR": "uint32 XOR",
-        "n-bit left rotation": "uint32 n-bit left rotation"
+        "n-bit left rotation": "uint32 n-bit left rotation",
+        "ChaCha20 Round":"ChaCha20 Round"
     }
 }
