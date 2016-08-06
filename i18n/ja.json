@@ -5,6 +5,9 @@
         "addition": "uint32の剰余加算",
         "XOR": "uint32のXOR",
         "n-bit left rotation": "uint32のnビット左ローテション",
-        "ChaCha20 Round":"ChaCha20 Round"
+        "ChaCha20 Round":"ChaCha20 Round",
+        "ChaCha20 QuaterRound":"ChaCha20 QuaterRound",
+        "ChaCha20 Block Function": "ChaCha20 Block Function",
+        "ChaCha20 Encryption": "ChaCha20 Encryption"
     }
 }
