@@ -7,5 +7,6 @@
     "ChaCha20 Block Function",
     "ChaCha20 Encryption",
     "Poly1305 Mac",
-    "Poly1305 Key Generation"
+    "Poly1305 Key Generation",
+    "ChaCha20-Poly1305 Encrypt"
 ]
