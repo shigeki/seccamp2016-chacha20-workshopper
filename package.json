@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/shigeki/seccamp2016-chacha20-workshopper",
   "dependencies": {
+    "seccamp2016-tls-poly1305": "0.0.1",
     "workshopper": "^2.7.0",
     "workshopper-exercise": "^2.4.0"
   }
