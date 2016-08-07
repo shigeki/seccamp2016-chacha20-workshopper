@@ -1,6 +1,6 @@
 {
   "name": "seccamp2016-chacha20-workshopper",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Homework of ChaCha20 for TLS Practices in Security Camp 2016",
   "main": "index.js",
   "preferGlobal": true,
