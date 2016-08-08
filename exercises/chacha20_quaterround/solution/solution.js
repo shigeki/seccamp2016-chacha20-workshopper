@@ -85,4 +85,4 @@ var chacha_state = [
 
 QUARTERROUND(chacha_state, 2, 7, 8, 13);
 
-console.log(Buffer.concat(chacha_state).toString('hex'));
+console.log(chacha_state[13].toString('hex'));
