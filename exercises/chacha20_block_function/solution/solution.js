@@ -138,4 +138,11 @@ for(var i = 0; i < 10; i++) {
   QuarterRound(state, 3, 4,  9, 14);
 }
 var final_state = StatePlus(init_state, state);
-console.log(Buffer.concat(final_state).toString('hex'));
+console.log(final_state[0].toString('hex'));
+
+/* Final State is
+ 0xe4e7f110  0x15593bd1  0x1fdd0f50  0xc47120a3
+ 0xc7f4d1c7  0x0368c033  0x9aaa2204  0x4e6cd4c3
+ 0x466482d2  0x09aa9f07  0x05d7c214  0xa2028bd9
+ 0xd19c12b5  0xb94e16de  0xe883d0cb  0x4e3c50a2
+*/
