@@ -24,6 +24,6 @@ Key = 000102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f
 Nonce = 000000000000004a00000000
 Counter = 1
 
-20 Round して状態変更した ChaCha20 Stateを計算して KeyStream を求めなさい。
+20 Round の状態と初期状態の剰余和を取った ChaCha20 final Stateを計算して KeyStream に変換しなさい。
 
 KeyStreamは、16進数の文字列にして標準出力に出力しなさい。
