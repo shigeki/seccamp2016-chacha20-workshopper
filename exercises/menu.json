@@ -5,6 +5,7 @@
     "ChaCha20 Round",
     "ChaCha20 QuaterRound",
     "ChaCha20 Block Function",
+    "ChaCha20 KeyStream",
     "ChaCha20 Encryption",
     "Poly1305 Mac",
     "Poly1305 Key Generation",
